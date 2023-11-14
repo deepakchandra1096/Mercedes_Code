@@ -1,2 +1,2 @@
-# Mercedes_Code
+# Mercedes
 Mercedes-Benz Software Factory
