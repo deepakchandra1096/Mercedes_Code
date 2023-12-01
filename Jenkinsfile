@@ -19,7 +19,7 @@ agent any
          steps{
              checkout([$class: 'GitSCM',
              branches: [[name: '*/main']],
-             userRemoteConfigs: [[credentialsId: '******************************', url:'https://github.com/deepakchandra1096/Mercedes.git']]])
+             userRemoteConfigs: [[credentialsId: '******************************', url:'https://github.com/deepakchandra1096/Mercedes_Code.git']]])
          }
      }
      
